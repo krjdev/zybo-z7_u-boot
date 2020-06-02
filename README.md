@@ -12,7 +12,7 @@
 ## Step 1 - Build U-Boot
 
 *NOTE*  
-In this tutorial I usesd the offical GCC compiler from the ARM website.
+In this tutorial I used the offical GCC compiler from the ARM website.
 
 * Checkout U-Boot sources  
 ``
